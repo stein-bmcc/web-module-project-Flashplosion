@@ -1,0 +1,12 @@
+body{
+    background-color: burlywood;
+}
+
+p{
+    font-size: 28px;
+}
+
+img, video{
+    max-width: 100%;
+    height: auto;
+}
