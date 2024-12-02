@@ -1,7 +1,25 @@
 body{
     background-color: burlywood;
+     width: 700px; /*Control the wight of page */
+    margin: 0 auto; /*centers on the page */
 }
 
 p{
-    font-size: 28px
+    font-size: 30px;
+}
+
+img, video{
+    max-width: 100%;
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
 }
