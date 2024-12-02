@@ -5,7 +5,7 @@ body{
 }
 
 p{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 img, video{
@@ -23,3 +23,24 @@ nav li{
   display: inline-block;
   margin-right: 20px;
 }
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+html{
+    font-size: 150%;
+  }
+  
+  h1{
+    font-size: 2rem;
+  }
+  h2{
+    font-size: 2rem;
+  }
